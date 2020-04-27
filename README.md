@@ -1,1 +1,1 @@
-# Quantumult-X
+# Quantumult-X Filter
