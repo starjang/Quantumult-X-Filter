@@ -5,4 +5,4 @@ USER-AGENT,com.apple.trustd*,appstore
 USER-AGENT,itunesstored*,appstore
 USER-AGENT,MacAppStore*,appstore
 USER-AGENT,trustd*,appstore
-DOMAIN-SUFFIX,mzstatic.com,appstore,appstore
+DOMAIN-SUFFIX,mzstatic.com,appstore
