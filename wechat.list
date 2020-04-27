@@ -1,0 +1,8 @@
+USER-AGENT,MicroMessenger*,wechat
+USER-AGENT,WeChat*,wechat
+DOMAIN,anquan.baidu.com,wechat
+DOMAIN,app.adjust.com,wechat
+DOMAIN,data.flurry.com,wechat
+DOMAIN,hm.baidu.com,wechat
+DOMAIN,msg.umeng.com,wechat
+DOMAIN,msg.umengcloud.com,wechat
