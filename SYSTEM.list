@@ -1,32 +1,32 @@
-USER-AGENT *com.apple.mobileme.fmip1,SYSTEM
-USER-AGENT *WeatherFoundation*,SYSTEM
-USER-AGENT %E5%9C%B0%E5%9B%BE*,SYSTEM
-USER-AGENT %E8%AE%BE%E7%BD%AE*,SYSTEM
-USER-AGENT com.apple.geod*,SYSTEM
-USER-AGENT com.apple.Maps,SYSTEM
-USER-AGENT FindMyFriends*,SYSTEM
-USER-AGENT FindMyiPhone*,SYSTEM
-USER-AGENT FMDClient*,SYSTEM
-USER-AGENT FMFD*,SYSTEM
-USER-AGENT fmflocatord*,SYSTEM
-USER-AGENT geod*,SYSTEM
-USER-AGENT locationd*,SYSTEM
-USER-AGENT Maps*,SYSTEM
-DOMAIN api.smoot.apple.com,SYSTEM
-DOMAIN captive.apple.com,SYSTEM
-DOMAIN configuration.apple.com,SYSTEM
-DOMAIN guzzoni.apple.com,SYSTEM
-DOMAIN smp-device-content.apple.com,SYSTEM
-DOMAIN xp.apple.com,SYSTEM
-DOMAIN-SUFFIX ess.apple.com,SYSTEM
-DOMAIN-SUFFIX push-apple.com.akadns.net,SYSTEM
-DOMAIN-SUFFIX push.apple.com,SYSTEM
-DOMAIN aod.itunes.apple.com,SYSTEM
-DOMAIN mesu.apple.com,SYSTEM
-DOMAIN api.smoot.apple.cn,SYSTEM
-DOMAIN gs-loc.apple.com,SYSTEM
-DOMAIN mvod.itunes.apple.com,SYSTEM
-DOMAIN streamingaudio.itunes.apple.com,SYSTEM
-DOMAIN-SUFFIX lcdn-locator.apple.com,SYSTEM
-DOMAIN-SUFFIX lcdn-registration.apple.com,SYSTEM
-DOMAIN-SUFFIX ls.apple.com,SYSTEM
+USER-AGENT,*com.apple.mobileme.fmip1,SYSTEM
+USER-AGENT,*WeatherFoundation*,SYSTEM
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,SYSTEM
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,SYSTEM
+USER-AGENT,com.apple.geod*,SYSTEM
+USER-AGENT,com.apple.Maps,SYSTEM
+USER-AGENT,FindMyFriends*,SYSTEM
+USER-AGENT,FindMyiPhone*,SYSTEM
+USER-AGENT,FMDClient*,SYSTEM
+USER-AGENT,FMFD*,SYSTEM
+USER-AGENT,fmflocatord*,SYSTEM
+USER-AGENT,geod*,SYSTEM
+USER-AGENT,locationd*,SYSTEM
+USER-AGENT,Maps*,SYSTEM
+DOMAIN,api.smoot.apple.com,SYSTEM
+DOMAIN,captive.apple.com,SYSTEM
+DOMAIN,configuration.apple.com,SYSTEM
+DOMAIN,guzzoni.apple.com,SYSTEM
+DOMAIN,smp-device-content.apple.com,SYSTEM
+DOMAIN,xp.apple.com,SYSTEM
+DOMAIN-SUFFIX,ess.apple.com,SYSTEM
+DOMAIN-SUFFIX,push-apple.com.akadns.net,SYSTEM
+DOMAIN-SUFFIX,push.apple.com,SYSTEM
+DOMAIN,aod.itunes.apple.com,SYSTEM
+DOMAIN,mesu.apple.com,SYSTEM
+DOMAIN,api.smoot.apple.cn,SYSTEM
+DOMAIN,gs-loc.apple.com,SYSTEM
+DOMAIN,mvod.itunes.apple.com,SYSTEM
+DOMAIN,streamingaudio.itunes.apple.com,SYSTEM
+DOMAIN-SUFFIX,lcdn-locator.apple.com,SYSTEM
+DOMAIN-SUFFIX,lcdn-registration.apple.com,SYSTEM
+DOMAIN-SUFFIX,ls.apple.com,SYSTEM
