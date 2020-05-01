@@ -1,8 +1,8 @@
-USER-AGENT,AppStore*,appstore
-USER-AGENT,App%20Store*,appstore
-USER-AGENT,com.apple.appstored*,appstore
-USER-AGENT,com.apple.trustd*,appstore
-USER-AGENT,itunesstored*,appstore
-USER-AGENT,MacAppStore*,appstore
-USER-AGENT,trustd*,appstore
-DOMAIN-SUFFIX,mzstatic.com,appstore
+USER-AGENT,AppStore*,applestore
+USER-AGENT,App%20Store*,applestore
+USER-AGENT,com.apple.appstored*,applestore
+USER-AGENT,com.apple.trustd*,applestore
+USER-AGENT,itunesstored*,applestore
+USER-AGENT,MacAppStore*,applestore
+USER-AGENT,trustd*,applestore
+DOMAIN-SUFFIX,mzstatic.com,applestore
