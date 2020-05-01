@@ -12,4 +12,4 @@ var ip = obj['query'];
 var description = obj['isp'] + '\n' + obj['ipType'];
 
 
-$done({title, subtitle, ip, description});
+$done({ip, description});
