@@ -1,4 +1,4 @@
-DOMAIN,accounts.google.com,google
+DOMAIN-SUFFIX,google.cn,google
 DOMAIN-SUFFIX,google.co.jp,google
+DOMAIN-SUFFIX,google.com,google
 DOMAIN-SUFFIX,googleapis.com,google
-DOMAIN-SUFFIX,translate.google.cn,google
