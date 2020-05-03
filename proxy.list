@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,imdb.com,proxy
 DOMAIN-SUFFIX,img.ly,proxy
 DOMAIN-SUFFIX,imgur.com,proxy
 DOMAIN-SUFFIX,instagram.com,proxy
+DOMAIN-SUFFIX,ip-api.com,proxy
 DOMAIN-SUFFIX,ipsw.me,proxy
 DOMAIN-SUFFIX,issuu.com,proxy
 DOMAIN-SUFFIX,jquery.com,proxy
