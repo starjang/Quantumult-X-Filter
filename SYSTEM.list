@@ -30,6 +30,3 @@ DOMAIN,streamingaudio.itunes.apple.com,SYSTEM
 DOMAIN-SUFFIX,lcdn-locator.apple.com,SYSTEM
 DOMAIN-SUFFIX,lcdn-registration.apple.com,SYSTEM
 DOMAIN-SUFFIX,ls.apple.com,SYSTEM
-DOMAIN-SUFFIX,time.apple.com,SYSTEM
-DOMAIN-SUFFIX,time-ios.apple.com,SYSTEM
-DOMAIN-SUFFIX,time-macos.apple.com,SYSTEM
