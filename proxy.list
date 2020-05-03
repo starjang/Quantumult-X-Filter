@@ -134,6 +134,7 @@ DOMAIN-SUFFIX,mozilla.com,proxy
 DOMAIN-SUFFIX,mozilla.org,proxy
 DOMAIN-SUFFIX,nasa.gov,proxy
 DOMAIN-SUFFIX,netdna-cdn.com,proxy
+DOMAIN-SUFFIX,notion.so,proxy
 DOMAIN-SUFFIX,nssurge.com,proxy
 DOMAIN-SUFFIX,nytimes.com,proxy
 DOMAIN-SUFFIX,office.com,proxy
