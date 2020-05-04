@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,speedtest.net,proxy
 DOMAIN-SUFFIX,spotify.com,proxy
 DOMAIN-SUFFIX,stackoverflow.com,proxy
 DOMAIN-SUFFIX,supertop.co,proxy
+DOMAIN-SUFFIX,surge-activation.com,proxy
 DOMAIN-SUFFIX,symcb.com,proxy
 DOMAIN-SUFFIX,symcd.com,proxy
 DOMAIN-SUFFIX,t.co,proxy
@@ -189,6 +190,7 @@ DOMAIN-SUFFIX,time.com,proxy
 DOMAIN-SUFFIX,timeinc.net,proxy
 DOMAIN-SUFFIX,tiny.cc,proxy
 DOMAIN-SUFFIX,tinypic.com,proxy
+DOMAIN-SUFFIX,trello.com,proxy
 DOMAIN-SUFFIX,tw,proxy
 DOMAIN-SUFFIX,twitch.tv,proxy
 DOMAIN-SUFFIX,typekit.com,proxy
