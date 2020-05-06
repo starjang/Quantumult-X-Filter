@@ -26,6 +26,7 @@ DOMAIN,mesu.apple.com,SYSTEM
 DOMAIN,api.smoot.apple.cn,SYSTEM
 DOMAIN,gs-loc.apple.com,SYSTEM
 DOMAIN,mvod.itunes.apple.com,SYSTEM
+DOMAIN,time-ios.apple.com,SYSTEM
 DOMAIN,streamingaudio.itunes.apple.com,SYSTEM
 DOMAIN-SUFFIX,lcdn-locator.apple.com,SYSTEM
 DOMAIN-SUFFIX,lcdn-registration.apple.com,SYSTEM
